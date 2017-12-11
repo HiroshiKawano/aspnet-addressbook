@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27004.2008
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddressBookApp", "AddressBookApp\AddressBookApp.csproj", "{335E11FB-59FD-4907-8F11-58DA668F7306}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsvImportApp", "CsvImportApp\CsvImportApp.csproj", "{98B14B55-DA00-4C89-9A6D-94A8B462EC28}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{335E11FB-59FD-4907-8F11-58DA668F7306}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{335E11FB-59FD-4907-8F11-58DA668F7306}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{335E11FB-59FD-4907-8F11-58DA668F7306}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98B14B55-DA00-4C89-9A6D-94A8B462EC28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98B14B55-DA00-4C89-9A6D-94A8B462EC28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98B14B55-DA00-4C89-9A6D-94A8B462EC28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98B14B55-DA00-4C89-9A6D-94A8B462EC28}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
